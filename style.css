@@ -1,0 +1,32 @@
+.our-buttom {
+    color: red !important;
+}
+.carousel-control-prev-icon {
+    color: black !important;
+}
+.card {
+    border: none;
+    box-shadow: 10px 10px 20px lightgray;
+}
+a {
+    text-decoration: none;
+}
+img {
+   
+}
+.boxshodow-2 {
+    box-shadow: 10px 10px 20px lightgray;
+    padding: 30px 5px;
+}
+/* .boxshodow-3 {
+    box-shadow: 10px 10px 20px lightgray;
+}
+*/
+i {
+    font-weight: 400;
+}
+.footer-area {
+    background-color: black;
+    padding: 20px 0px;
+    color: #ffffff;
+}
